@@ -20,7 +20,7 @@ Yesterday, I was a good fish and read a whole chapter (started with the first on
 
 Anyway, today I made some notes in my notebook and thought to share them here, what else would one use a notebook for? Or a blog for that matter. {% emoji "😉", "winking face" %}
 
-Haven't quite decided what this will turn into but the idea is well, maybe to make games or something. We'll see.
+Haven't quite decided what this will turn into but the idea is, well maybe to make games or something. We'll see.
 
 ## Yet Another Project
 
@@ -47,8 +47,10 @@ https://open.spotify.com/embed/album/0CqchZDaOxckvjnKKfJh1w
 
 XOXO {% emoji "😘", "face blowing a kiss" %}
 
-## 2025 Update
+## 2026 Addition
 
-talk about my macbook hehe.
+Little did I know that three years later I would get a MacBook Pro from work and begin my very own Apple Journey. It's been a good companion for the past decade and enabled me to start new creative projects.
+
+It has its flaws and causes for frustration and I feel it could be a good time to move on and start a new chapter with a [Mac Mini](https://www.apple.com/mac-mini/) with the M4 chip.
 
 / Rasmus
