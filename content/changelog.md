@@ -9,6 +9,10 @@ I thought about using Semantic Versioning but since I'm the sole maintainer I'd 
 
 Inspired by [Robb Knight](https://rknight.me/log/).
 
+## 2026-03-14
+
+- Added collection to blog archive in order to show older posts from [Happy kodar](/blog/#happy-kodar)
+
 ## 2025-06-01
 
 - Refactored changes from upstream
